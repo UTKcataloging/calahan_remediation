@@ -49,8 +49,8 @@
             <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh95007145">
                 <topic>War and families</topic>
             </subject>
-            <typeOfResource collection="yes">still image</typeOfResource>
-            <typeOfResource collection="yes">text</typeOfResource>
+            <typeOfResource>still image</typeOfResource>
+            <typeOfResource>text</typeOfResource>
             <language>
                 <languageTerm authority="iso639-2b" type="text">English</languageTerm>
             </language>

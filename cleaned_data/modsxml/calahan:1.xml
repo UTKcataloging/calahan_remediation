@@ -37,8 +37,8 @@
    <subject authority="tgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003020">
       <topic>Deserts</topic>
    </subject>
-   <typeOfResource collection="yes">still image</typeOfResource>
-   <typeOfResource collection="yes">text</typeOfResource>
+   <typeOfResource>still image</typeOfResource>
+   <typeOfResource>text</typeOfResource>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>
    </language>

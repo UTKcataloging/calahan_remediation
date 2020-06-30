@@ -46,8 +46,8 @@
    <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n2001063451">
       <geographic>Camp Lewis (Wash.)</geographic>
    </subject>
-   <typeOfResource collection="yes">still image</typeOfResource>
-   <typeOfResource collection="yes">text</typeOfResource>
+   <typeOfResource>still image</typeOfResource>
+   <typeOfResource>text</typeOfResource>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>
    </language>
